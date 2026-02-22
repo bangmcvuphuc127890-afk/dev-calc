@@ -1,0 +1,8 @@
+Package: dev-calc
+Version: 0.2.1-alpha
+Sections: utils
+Priority: optional
+Architecture: arm64
+Maintainer: BangGaming8826
+Description: This is a small application for developers to calculate (sigma, fact, product, equation,...). Written by a Vietnamese named BangGaming8826
+
