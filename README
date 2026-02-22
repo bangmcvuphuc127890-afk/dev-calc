@@ -1,0 +1,14 @@
+
+
+## ✨ Highlights
+- **Language:** Written in **C++23** (Modern C++).
+- **Developer:** Created by **BangGaming8826** (developer from Vietnam).
+- **Features:** Real-time RAM and CPU tracking with system process management.
+
+## 📦 Installation
+Download the `.deb` file from the [Releases](https://github.com/bangmcvuphuc127890-afk/dev_calc/releases) section and install it using:
+```bash
+sudo dpkg -i dev-calc-package.deb
+
+❤️ Thank you to using dev-calc!
+[END]
